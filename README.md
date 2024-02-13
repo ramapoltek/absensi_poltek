@@ -1,2 +1,2 @@
 # Absensi-Modellink
-Aplikasi Absensi Sekolah SMK Modellink
+Aplikasi Absensi poltek ganesha guru
